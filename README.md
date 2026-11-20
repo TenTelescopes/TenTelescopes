@@ -27,7 +27,7 @@ Ten Telescopes started when I designed and built a telescope for my niece. It wo
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/TenTelescopes/Skyward150"><img src="images/skyward150-bryan.jpg" alt="The founder of Ten Telescopes with a purple and orange Skyward 150, with Skyward 200s behind"></a>
+      <a href="https://github.com/TenTelescopes/Skyward150"><img src="images/skyward150-candy-floss.jpg" alt="Terry looking over Candy Floss, a pink and mint Skyward 150, in the workshop"></a>
       <h3><a href="https://github.com/TenTelescopes/Skyward150">Skyward 150</a></h3>
       Our first Skyward. A 150 mm f/5 Newtonian on a tripod, good for the Moon, planets, star clusters and Messier objects. Printed parts need no supports.
     </td>
