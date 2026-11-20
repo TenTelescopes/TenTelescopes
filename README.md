@@ -20,31 +20,31 @@
 
 ---
 
-Ten Telescopes started in 2020 with a telescope for an 11 year old niece. The goal was to build ten telescopes for people to borrow for free. It grew from there: open source designs that anyone can print, a small lending library in Guelph, and thirty Skyward 200s for the Young Galileos program.
+Ten Telescopes started when I designed and built a telescope for my niece. It worked so well that I decided to make a library of ten of the same scopes to loan out. People loved them, so I released the designs as open source, and it just got completely out of control from there. Now there are free designs anyone can print, a lending library in Guelph, and thirty Skyward 200s built for the Young Galileos program.
 
 ## Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/TenTelescopes/Skyward150"><img src="https://raw.githubusercontent.com/TenTelescopes/Skyward150/main/images/skyward150-hero.jpg" alt="Skyward 150"></a>
+      <a href="https://github.com/TenTelescopes/Skyward150"><img src="images/skyward150-students-observing.jpg" alt="Students at Centennial CVI in Guelph observing with Skyward 150 telescopes"></a>
       <h3><a href="https://github.com/TenTelescopes/Skyward150">Skyward 150</a></h3>
       Our first Skyward. A 150 mm f/5 Newtonian on a tripod, good for the Moon, planets, star clusters and Messier objects. Printed parts need no supports.
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/TenTelescopes/Skyward200"><img src="https://raw.githubusercontent.com/TenTelescopes/Skyward200/main/images/skyward200-hero.jpg" alt="Skyward 200"></a>
+      <a href="https://github.com/TenTelescopes/Skyward200"><img src="images/skyward200-young-galileos-volunteers.jpg" alt="Hamilton RASC volunteers with Skyward 200 tripods and rocker boxes built for the Young Galileos program"></a>
       <h3><a href="https://github.com/TenTelescopes/Skyward200">Skyward 200</a></h3>
       The big brother. A 200 mm f/4 Newtonian in two versions: visual on a Dobsonian rocker box and tripod, or the Skyward 200 Astrograph for astrophotography.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/TenTelescopes/Ten-Telescopes-2-Inch-Focuser"><img src="https://raw.githubusercontent.com/TenTelescopes/Ten-Telescopes-2-Inch-Focuser/main/images/focuser-hero.jpg" alt="Ten Telescopes 2 Inch Focuser"></a>
+      <a href="https://github.com/TenTelescopes/Ten-Telescopes-2-Inch-Focuser"><img src="images/focuser-build-committee.jpg" alt="The Ten Telescopes build committee holding a batch of finished red focusers and solar filters"></a>
       <h3><a href="https://github.com/TenTelescopes/Ten-Telescopes-2-Inch-Focuser">2 Inch Focuser</a></h3>
       A heavy duty 3D printed Crayford focuser with a 9:1 fine focus, ready for an electronic auto focuser.
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/TenTelescopes/skyward-pushto"><img src="https://raw.githubusercontent.com/TenTelescopes/skyward-pushto/main/docs/blog/cover.jpg" alt="Skyward Push-To phone app"></a>
+      <a href="https://github.com/TenTelescopes/skyward-pushto"><img src="images/skyward-public-stargazing-night.jpg" alt="People lined up at Skyward telescopes on a snowy public stargazing night"></a>
       <h3><a href="https://github.com/TenTelescopes/skyward-pushto">Skyward Push-To</a></h3>
       A phone app that rides on a Skyward and tells you which way to push to find your target. Runs offline on the phone.<br><br>
       <a href="https://tentelescopes.github.io/skyward-pushto/">Try it on a phone</a> · <a href="https://www.tentelescopes.com/post/testers-wanted-the-skyward-push-to-app">Testers wanted</a>
