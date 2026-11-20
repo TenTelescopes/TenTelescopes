@@ -29,7 +29,7 @@ Ten Telescopes started when I designed and built a telescope for my niece. It wo
     <td width="50%" valign="top">
       <a href="https://github.com/TenTelescopes/Skyward150"><img src="images/skyward150-candy-floss.jpg" alt="Terry looking over Candy Floss, a pink and mint Skyward 150, in the workshop"></a>
       <h3><a href="https://github.com/TenTelescopes/Skyward150">Skyward 150</a></h3>
-      Our first Skyward. A 150 mm f/5 Newtonian on a tripod, good for the Moon, planets, star clusters and Messier objects. Printed parts need no supports.
+      Our first Skyward. A 150 mm f/5 Newtonian in two versions: visual on a tripod, good for the Moon, planets, star clusters and Messier objects, or the Skyward 150 Astrograph for astrophotography. Printed parts need no supports.
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/TenTelescopes/Skyward200"><img src="images/skyward200-stellafane-booth.jpg" alt="Talking a visitor through a pink Skyward 200 at the Stellafane convention"></a>
