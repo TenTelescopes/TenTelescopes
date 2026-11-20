@@ -34,7 +34,7 @@ One of the things I love most about these scopes is that they're forever upgrade
       Our first Skyward. A 150 mm f/5 Newtonian in two versions: visual on a tripod, good for the Moon, planets, star clusters and Messier objects, or the Skyward 150 Astrograph for astrophotography. Printed parts need no supports.
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/TenTelescopes/Skyward200"><img src="images/skyward200-stellafane-booth.jpg" alt="Talking a visitor through a pink Skyward 200 at the Stellafane convention"></a>
+      <a href="https://github.com/TenTelescopes/Skyward200"><img src="images/skyward200-build-event.jpg" alt="Working on a Skyward 200 tube at a build event, with a finished Skyward 200 behind"></a>
       <h3><a href="https://github.com/TenTelescopes/Skyward200">Skyward 200</a></h3>
       The big brother. A 200 mm f/4 Newtonian in two versions: visual on a Dobsonian rocker box and tripod, or the Skyward 200 Astrograph for astrophotography.
     </td>
