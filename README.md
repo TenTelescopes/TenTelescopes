@@ -27,19 +27,19 @@ Ten Telescopes started when I designed and built a telescope for my niece. It wo
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/TenTelescopes/Skyward150"><img src="images/skyward150-students-observing.jpg" alt="Students at Centennial CVI in Guelph observing with Skyward 150 telescopes"></a>
+      <a href="https://github.com/TenTelescopes/Skyward150"><img src="images/skyward150-bryan.jpg" alt="The founder of Ten Telescopes with a purple and orange Skyward 150, with Skyward 200s behind"></a>
       <h3><a href="https://github.com/TenTelescopes/Skyward150">Skyward 150</a></h3>
       Our first Skyward. A 150 mm f/5 Newtonian on a tripod, good for the Moon, planets, star clusters and Messier objects. Printed parts need no supports.
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/TenTelescopes/Skyward200"><img src="images/skyward200-young-galileos-volunteers.jpg" alt="Hamilton RASC volunteers with Skyward 200 tripods and rocker boxes built for the Young Galileos program"></a>
+      <a href="https://github.com/TenTelescopes/Skyward200"><img src="images/skyward200-stellafane-booth.jpg" alt="Talking a visitor through a pink Skyward 200 at the Stellafane convention"></a>
       <h3><a href="https://github.com/TenTelescopes/Skyward200">Skyward 200</a></h3>
       The big brother. A 200 mm f/4 Newtonian in two versions: visual on a Dobsonian rocker box and tripod, or the Skyward 200 Astrograph for astrophotography.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/TenTelescopes/Ten-Telescopes-2-Inch-Focuser"><img src="images/focuser-build-committee.jpg" alt="The Ten Telescopes build committee holding a batch of finished red focusers and solar filters"></a>
+      <a href="https://github.com/TenTelescopes/Ten-Telescopes-2-Inch-Focuser"><img src="images/focuser-with-autofocuser.jpg" alt="The Ten Telescopes 2 inch focuser with a camera and an electronic autofocuser, outdoors"></a>
       <h3><a href="https://github.com/TenTelescopes/Ten-Telescopes-2-Inch-Focuser">2 Inch Focuser</a></h3>
       A heavy duty 3D printed Crayford focuser with a 9:1 fine focus, ready for an electronic auto focuser.
     </td>
