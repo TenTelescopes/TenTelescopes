@@ -22,6 +22,8 @@
 
 Ten Telescopes started when I designed and built a telescope for my niece. It worked so well that I decided to make a library of ten of the same scopes to loan out. People loved them, so I released the designs as open source, and it just got completely out of control from there. Now there are free designs anyone can print, a lending library in Guelph, and thirty Skyward 200s built for the Young Galileos program.
 
+One of the things I love most about these scopes is that they're forever upgradeable. A Skyward can start out as a visual telescope, become an Astrograph for astrophotography later, and go back to visual again.
+
 ## Projects
 
 <table>
