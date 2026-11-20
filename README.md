@@ -44,7 +44,7 @@ Ten Telescopes started when I designed and built a telescope for my niece. It wo
       A heavy duty 3D printed Crayford focuser with a 9:1 fine focus, ready for an electronic auto focuser.
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/TenTelescopes/skyward-pushto"><img src="images/skyward-public-stargazing-night.jpg" alt="People lined up at Skyward telescopes on a snowy public stargazing night"></a>
+      <a href="https://github.com/TenTelescopes/skyward-pushto"><img src="images/skyward-pushto-three-screens.jpg" alt="Three Skyward Push-To screens: picking what to do, tonight's best targets, and the eyepiece preview"></a>
       <h3><a href="https://github.com/TenTelescopes/skyward-pushto">Skyward Push-To</a></h3>
       A phone app that rides on a Skyward and tells you which way to push to find your target. Runs offline on the phone.<br><br>
       <a href="https://tentelescopes.github.io/skyward-pushto/">Try it on a phone</a> · <a href="https://www.tentelescopes.com/post/testers-wanted-the-skyward-push-to-app">Testers wanted</a>
